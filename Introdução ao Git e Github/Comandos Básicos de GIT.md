@@ -9,5 +9,8 @@ algoritmo preferido para diff, nome de usuário e formato de arquivo etc. Por ex
 - **git init**
 <p>Este comando é usado para criar um novo repositório GIT.<p>
     
-- **git add&**
+- **git add**
 <p>O comando git add pode ser usado para adicionar arquivos ao índice.<p>
+
+- **git clone**
+    <p>O comando git clone é usado para fins de verificação de repositório.<p>
