@@ -13,4 +13,13 @@ algoritmo preferido para diff, nome de usuário e formato de arquivo etc. Por ex
 <p>O comando git add pode ser usado para adicionar arquivos ao índice.<p>
 
 - **git clone**
-    <p>O comando git clone é usado para fins de verificação de repositório.<p>
+<p>O comando git clone é usado para fins de verificação de repositório ou copiar um trabalho de um repositório.<p>
+
+- **git commit**
+<p>O comando git commit é usado para confirmar as alterações na cabeça.<p>
+
+- **git status**
+<p>O comando git status exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.<p>
+    
+- **git push**
+<p>git push é outro dos comandos git básicos mais usados. Um simples envio envia as alterações feitas para o ramo mestre do repositório remoto associado ao diretório de trabalho.<p>
